@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target 'JSONModel嵌套' do
+pod 'JSONModel'
+end
